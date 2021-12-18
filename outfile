@@ -1,0 +1,522 @@
+     judgment                                              tweet  logprobsex  \
+0     neither                   not yet. :(  all talk, no email. -104.460310   
+1     neither  I am really curious as to why someone would tr... -281.192826   
+2     neither  o_O   that's appreciated greatly. going to be ... -252.421012   
+3     neither  but you might ask @cperciva - i'm pretty sure ... -177.353792   
+4     neither                                  no, that's @oolon  -57.686315   
+5     neither                 I'm weird - I like Cherry MX Reds. -125.890320   
+6     neither  #mainecoon #coon #cat #kitty #pet #animal #cat... -524.976677   
+7     neither  If someone has to get the highest score in his... -449.658495   
+8     neither  Thanks, everyone. Sometimes stuff gets to me w... -429.643250   
+9     neither                          Corsair K95. Not the RGB. -101.140639   
+10     sexism  Rape by Fraud Feminazi Strike Again: https://t... -280.737736   
+11    neither     I hear @KJAllianceGoA counts totems as people. -158.204706   
+12    neither  Stop calling for the head of whoever made that... -391.154749   
+13    neither  this isn't just gamergate this isn't just game... -408.032315   
+14    neither  i have other experiences that are not fine fro... -269.038086   
+15    neither           lol all my tweets are properly geotagged -124.205319   
+16    neither             .@sindarina tweetbot is a paid client. -118.429073   
+17    neither  no worries. the whole "you scare easily" is se... -300.112915   
+18    neither  i don't own boring socks. and i still wouldn't... -220.135850   
+19    neither  i remember what it was like to be snowed in ba... -287.045625   
+20    neither  In web, yes. Clients other than web immediatel... -192.996618   
+21     racism  man fuck these feminazi s Kube. We don't need ... -331.135981   
+22    neither                                      mail, mostly.  -45.014541   
+23     sexism  if you mean they have giant dicks that they're... -213.695518   
+24    neither  more so because the community is nodding and f... -282.079500   
+25    neither  no one from requiem ever goes. they are too an... -166.217815   
+26     sexism  I always thought they didn't like the Feminazi... -165.352160   
+27     sexism  Yes it is legit, Sweden is one place any livin... -373.455526   
+28     sexism  I'd say this is accurate of the feminazi girl ... -179.743446   
+29    neither  Had to put off press photog until today. Now I... -431.111972   
+...       ...                                                ...         ...   
+1231   racism          great job cOOning tonight #donlemon #coon -138.114654   
+1232  neither  Wow! Basically all men are responsible for rap... -403.524994   
+1233  neither  They should call you d20, 'cuz who even knows ... -233.246113   
+1234  neither  dude we were the best team ever. We made shit ... -212.201710   
+1235  neither  I don't have a problem getting tech companies ... -305.723516   
+1236   sexism  90% of females are now #Feminazi &amp; #NeedSh... -485.938447   
+1237  neither  I recall an article where #mkr prides itself o... -452.191567   
+1238  neither                                    i'm a gamer. ;)  -56.155484   
+1239  neither  He's said that he's backing out, but I think t... -303.038332   
+1240  neither                                    I SAW YOUR FACE  -75.950479   
+1241  neither  yeah, but then i'd have to buy shadow warrior.... -308.745660   
+1242  neither  My dog is photogenic as hell. http://t.co/NIN4... -204.155563   
+1243  neither  Sometimes a lot of this still feels like playi... -431.890778   
+1244  neither                                that exists in web.  -60.060321   
+1245   sexism                                        feminazi...  -39.664127   
+1246   racism  Um hey truth as a black man in a company that ... -378.177283   
+1247  neither               #MKR2015 #MKR http://t.co/mD9TyU1MOn -183.129224   
+1248  neither  we're totes not dog piling, but just so you kn... -323.440571   
+1249  neither  I was getting really into reading these blue a... -440.820371   
+1250  neither  Again, not all [insert privileged group/repres... -462.777434   
+1251  neither  i just got the jot script to use with penultim... -181.152351   
+1252   sexism  GRECIAN FUCK SHOES. .  . Also a gift of squirr... -523.935464   
+1253   sexism  HOT SINGLES ARE IN YOUR AREA . &gt;go west .  ... -745.731675   
+1254  neither  did you read the text of the article? that pic... -274.359091   
+1255   sexism                             How great are feminazi  -70.568141   
+1256   sexism                                    Define Feminazi  -51.637674   
+1257  neither  Yo. @moldybars. I really hate to burst your bu... -407.123482   
+1258  neither  HOW MANY ANGLES DOES MY FIST NEED I DON'T UNDE... -344.309056   
+1259  neither                                 Today's status: 👍😎  -46.538897   
+1260  neither                                       last retweet  -35.660683   
+
+      logprobnsex predicted  
+0     -101.281590   neither  
+1     -276.308926   neither  
+2     -249.569823   neither  
+3     -174.106892   neither  
+4      -54.991446   neither  
+5     -123.498849   neither  
+6     -525.238935    sexism  
+7     -445.847334   neither  
+8     -424.970950   neither  
+9      -98.241215   neither  
+10    -282.942074    sexism  
+11    -156.281886   neither  
+12    -384.622271   neither  
+13    -403.638854   neither  
+14    -266.726102   neither  
+15    -120.678720   neither  
+16    -116.350877   neither  
+17    -298.356718   neither  
+18    -214.388458   neither  
+19    -281.955018   neither  
+20    -189.459432   neither  
+21    -329.467977   neither  
+22     -43.393314   neither  
+23    -210.315981   neither  
+24    -282.001868   neither  
+25    -163.652353   neither  
+26    -165.347365   neither  
+27    -375.332721    sexism  
+28    -184.408882    sexism  
+29    -427.228289   neither  
+...           ...       ...  
+1231  -136.616073   neither  
+1232  -401.923523   neither  
+1233  -229.185100   neither  
+1234  -210.371102   neither  
+1235  -301.569795   neither  
+1236  -485.679100   neither  
+1237  -448.508549   neither  
+1238   -54.071994   neither  
+1239  -298.757614   neither  
+1240   -77.140956    sexism  
+1241  -303.986299   neither  
+1242  -198.987610   neither  
+1243  -426.682583   neither  
+1244   -57.878839   neither  
+1245   -40.218991    sexism  
+1246  -374.431399   neither  
+1247  -180.451260   neither  
+1248  -317.897566   neither  
+1249  -437.472879   neither  
+1250  -461.149023   neither  
+1251  -176.971085   neither  
+1252  -518.370181   neither  
+1253  -752.406506    sexism  
+1254  -269.779714   neither  
+1255   -71.294489    sexism  
+1256   -54.401306    sexism  
+1257  -400.815298   neither  
+1258  -351.602070    sexism  
+1259   -71.806282    sexism  
+1260   -33.229837   neither  
+
+[1261 rows x 5 columns]
+The precision prior to tuning is 0.558282208588957
+The recall prior to tuning is 0.8716577540106952
+The fscore prior to tuning is 0.6806313954021933
+    judgment                                              tweet  logprobsex  \
+0    neither  I am sorry, journalists, but this is kind of a... -443.095485   
+1    neither  i do want to try to branch out internationally... -389.241526   
+2    neither  Another day where the weather is supposed to g... -413.371180   
+3     sexism  Feminazi Blog Reminds Liberals Today Is Nation... -306.773397   
+4    neither  But for someone who touts EFF on their twitter... -327.267784   
+5    neither  not my place. if bri/zoe/anita feel that way, ... -280.029721   
+6    neither  If you're one of the people saying "GG got a b... -427.995311   
+7    neither                         iPad Air 2 or iPad mini 3?  -94.305713   
+8    neither  Recognize that campaigns like #BlameOneNotAll ... -438.670952   
+9    neither                                            see DM.  -27.092787   
+10   neither  because this is getting to be some INCEPTION-l... -294.272598   
+11   neither  Or they say things like, "We're looking to hir... -275.765714   
+12   neither  If someone uses xena warrior princess as their... -385.109340   
+13   neither  still extra work to go through. most trolls mo... -227.679928   
+14   neither  PVP TIME #selfie #warlords http://t.co/5CehYdUyBs -204.391798   
+15   neither                         thanks, it is appreciated.  -83.261324   
+16   neither  Continuing to spread those rumors is basically... -318.246595   
+17   neither        what if he's a figment of your imagination? -134.816482   
+18    sexism  Mufasa: Everything the light touches is the In... -471.717657   
+19    sexism  Ooooh! That's gonna tick off a lot of feminazi... -193.247931   
+20   neither  Like, no. If a community fostering jerks preve... -414.522997   
+21   neither  Oh, yeah. and FreeBSD is the OS that runs on y... -258.156947   
+22   neither  Replacement monitor arrived. I now have 24" (v... -490.827488   
+23   neither                                              none.  -16.373999   
+24   neither  sigh. don't get like that. it just came off re... -211.526104   
+25   neither  but on the other hand, it sends a message. and... -353.347855   
+26   neither  For everyone that is involved in this space, t... -398.077078   
+27    racism  #Arab Man Arrested Trying To Enter Same #Nucle... -514.698171   
+28   neither  Pretty sure that @ChrisWarcraft and I can take... -248.249392   
+29   neither  is he creating a new account or changing his u... -164.619150   
+..       ...                                                ...         ...   
+598  neither  One of the best things anyone can do to improv... -359.702711   
+599   sexism  Feminazi's in Sweden are going to go apeshit o... -253.224065   
+600   sexism  .@femfreq @ashleylynch she is a feminazi, also... -288.791806   
+601  neither  i've got this person blocked, please remove me... -246.830414   
+602  neither  Holy crap. Someone just messaged me an account... -370.578542   
+603  neither  http://t.co/ZxbZV39jru: Exotic Shorthair Munch... -549.330653   
+604   racism  The Israelites:   Israel Is A #Coon-Free Zone!... -499.193557   
+605   sexism  ok. Might have used the wrong word, but you se... -179.397386   
+606  neither  F.Y.I. if you Post ANY Crime Statistics of Min... -359.534388   
+607  neither  This might help http://t.co/QmBUzqQPzo &lt;&lt... -220.861077   
+608  neither  Because she's not a "feminazi" and is really c... -301.078486   
+609  neither  Presented without comment: http://t.co/pBhlLdmpCP -183.393478   
+610   sexism  at one point, a kid called my name for a point... -423.780278   
+611  neither   tldr i'm not gonna answer your texts for a while -147.569368   
+612  neither  Who wants to take bets on if he starts talking... -396.948681   
+613  neither  It's blurry because they were spinning in circ... -160.583390   
+614  neither                                           OMG yes.  -34.525924   
+615  neither  DYING AT THE ANSWERS. "How do I become less in... -362.780196   
+616  neither  It is so hard not answering questions. Darn it... -317.199624   
+617  neither  ok. whenever you've calmed yourself, poke me o... -355.494746   
+618   sexism  NEW BLOG POST https://t.co/2uoovKZXHc #feminis... -241.796270   
+619  neither  i've seen some strong proof that people in the... -286.030405   
+620  neither  someone to help with press releases and shit i... -360.578795   
+621  neither             this person needs to be put in timeout -110.538579   
+622  neither  NOOOOOOOOOOO no more instant resturants go awa... -195.890825   
+623  neither                                    isn't everyone?  -51.569824   
+624  neither  WOW to all the people stating this had nothing... -365.432030   
+625  neither  I'm thinking about selling my #blackmilk museu... -464.903433   
+626  neither  so uh. the creator of one of the #gamergate we... -414.598584   
+627  neither  #Libya Accuses #US of Trying to Put #Muslim #b... -512.749546   
+
+     logprobnsex predicted  
+0    -436.125184   neither  
+1    -383.791479   neither  
+2    -405.071095   neither  
+3    -309.999587    sexism  
+4    -325.054764   neither  
+5    -278.075239   neither  
+6    -423.875766   neither  
+7     -93.448883   neither  
+8    -442.887951    sexism  
+9     -25.377416   neither  
+10   -290.447255   neither  
+11   -275.864853    sexism  
+12   -381.504225   neither  
+13   -223.489738   neither  
+14   -201.376564   neither  
+15    -80.557329   neither  
+16   -314.201976   neither  
+17   -134.295285   neither  
+18   -467.369559   neither  
+19   -194.933401    sexism  
+20   -411.278150   neither  
+21   -255.454706   neither  
+22   -488.850457   neither  
+23    -14.493883   neither  
+24   -207.055678   neither  
+25   -348.628713   neither  
+26   -394.318226   neither  
+27   -512.661157   neither  
+28   -244.637792   neither  
+29   -162.839126   neither  
+..           ...       ...  
+598  -357.263293   neither  
+599  -254.229278    sexism  
+600  -288.722359   neither  
+601  -242.720969   neither  
+602  -365.409148   neither  
+603  -541.707691   neither  
+604  -499.670759    sexism  
+605  -174.533836   neither  
+606  -359.590753    sexism  
+607  -220.105123   neither  
+608  -303.949990    sexism  
+609  -178.105445   neither  
+610  -426.031652    sexism  
+611  -144.929739   neither  
+612  -393.185054   neither  
+613  -157.645200   neither  
+614   -32.736608   neither  
+615  -363.489535    sexism  
+616  -314.086856   neither  
+617  -349.781813   neither  
+618  -243.737392    sexism  
+619  -283.343790   neither  
+620  -354.978776   neither  
+621  -107.773553   neither  
+622  -196.828299    sexism  
+623   -49.855065   neither  
+624  -360.191694   neither  
+625  -462.208385   neither  
+626  -407.359098   neither  
+627  -514.470202    sexism  
+
+[628 rows x 5 columns]
+The precision of the tuning data is  0.5111111111111111
+The recall of the training data is  0.9183673469387755
+The fscore of the training data is  0.6567258883248731
+     judgment                                              tweet  logprobsex  \
+0     neither                   not yet. :(  all talk, no email. -104.472544   
+1     neither  I am really curious as to why someone would tr... -281.077644   
+2     neither  o_O   that's appreciated greatly. going to be ... -252.391052   
+3     neither  but you might ask @cperciva - i'm pretty sure ... -177.310536   
+4     neither                                  no, that's @oolon  -57.676195   
+5     neither                 I'm weird - I like Cherry MX Reds. -125.918827   
+6     neither  #mainecoon #coon #cat #kitty #pet #animal #cat... -525.198285   
+7     neither  If someone has to get the highest score in his... -449.703414   
+8     neither  Thanks, everyone. Sometimes stuff gets to me w... -429.504890   
+9     neither                          Corsair K95. Not the RGB. -101.195330   
+10     sexism  Rape by Fraud Feminazi Strike Again: https://t... -280.751846   
+11    neither     I hear @KJAllianceGoA counts totems as people. -158.191902   
+12    neither  Stop calling for the head of whoever made that... -391.009785   
+13    neither  this isn't just gamergate this isn't just game... -407.890913   
+14    neither  i have other experiences that are not fine fro... -268.949304   
+15    neither           lol all my tweets are properly geotagged -124.155824   
+16    neither             .@sindarina tweetbot is a paid client. -118.389022   
+17    neither  no worries. the whole "you scare easily" is se... -299.999915   
+18    neither  i don't own boring socks. and i still wouldn't... -220.799706   
+19    neither  i remember what it was like to be snowed in ba... -286.948378   
+20    neither  In web, yes. Clients other than web immediatel... -192.930488   
+21     racism  man fuck these feminazi s Kube. We don't need ... -331.032682   
+22    neither                                      mail, mostly.  -45.001473   
+23     sexism  if you mean they have giant dicks that they're... -213.616996   
+24    neither  more so because the community is nodding and f... -281.975057   
+25    neither  no one from requiem ever goes. they are too an... -166.159391   
+26     sexism  I always thought they didn't like the Feminazi... -165.303213   
+27     sexism  Yes it is legit, Sweden is one place any livin... -373.369035   
+28     sexism  I'd say this is accurate of the feminazi girl ... -179.687401   
+29    neither  Had to put off press photog until today. Now I... -431.002164   
+...       ...                                                ...         ...   
+1231   racism          great job cOOning tonight #donlemon #coon -138.082229   
+1232  neither  Wow! Basically all men are responsible for rap... -403.493681   
+1233  neither  They should call you d20, 'cuz who even knows ... -233.206364   
+1234  neither  dude we were the best team ever. We made shit ... -212.142940   
+1235  neither  I don't have a problem getting tech companies ... -305.624606   
+1236   sexism  90% of females are now #Feminazi &amp; #NeedSh... -486.511905   
+1237  neither  I recall an article where #mkr prides itself o... -452.117490   
+1238  neither                                    i'm a gamer. ;)  -56.195829   
+1239  neither  He's said that he's backing out, but I think t... -302.950048   
+1240  neither                                    I SAW YOUR FACE  -75.989196   
+1241  neither  yeah, but then i'd have to buy shadow warrior.... -308.697745   
+1242  neither  My dog is photogenic as hell. http://t.co/NIN4... -204.208874   
+1243  neither  Sometimes a lot of this still feels like playi... -431.741724   
+1244  neither                                that exists in web.  -60.042709   
+1245   sexism                                        feminazi...  -39.653109   
+1246   racism  Um hey truth as a black man in a company that ... -378.041305   
+1247  neither               #MKR2015 #MKR http://t.co/mD9TyU1MOn -183.278442   
+1248  neither  we're totes not dog piling, but just so you kn... -323.383705   
+1249  neither  I was getting really into reading these blue a... -440.735763   
+1250  neither  Again, not all [insert privileged group/repres... -463.448517   
+1251  neither  i just got the jot script to use with penultim... -181.246593   
+1252   sexism  GRECIAN FUCK SHOES. .  . Also a gift of squirr... -524.023391   
+1253   sexism  HOT SINGLES ARE IN YOUR AREA . &gt;go west .  ... -746.066779   
+1254  neither  did you read the text of the article? that pic... -274.266173   
+1255   sexism                             How great are feminazi  -70.548146   
+1256   sexism                                    Define Feminazi  -51.630073   
+1257  neither  Yo. @moldybars. I really hate to burst your bu... -407.091529   
+1258  neither  HOW MANY ANGLES DOES MY FIST NEED I DON'T UNDE... -344.429565   
+1259  neither                                 Today's status: 👍😎  -46.527599   
+1260  neither                                       last retweet  -35.644726   
+
+      logprobnsex predicted  
+0     -101.278308   neither  
+1     -276.269529   neither  
+2     -249.549284   neither  
+3     -174.090634   neither  
+4      -54.987167   neither  
+5     -123.498565   neither  
+6     -525.293168    sexism  
+7     -445.840241   neither  
+8     -424.920709   neither  
+9      -98.249694   neither  
+10    -282.944997    sexism  
+11    -156.274498   neither  
+12    -384.571688   neither  
+13    -403.587476   neither  
+14    -266.695322   neither  
+15    -120.661627   neither  
+16    -116.336884   neither  
+17    -298.322302   neither  
+18    -214.425060   neither  
+19    -281.919897   neither  
+20    -189.435052   neither  
+21    -329.432526   neither  
+22     -43.388436   neither  
+23    -210.288152   neither  
+24    -281.965878   neither  
+25    -163.631659   neither  
+26    -165.333294    sexism  
+27    -375.303320    sexism  
+28    -184.398209    sexism  
+29    -427.185580   neither  
+...           ...       ...  
+1231  -136.603955   neither  
+1232  -401.903782   neither  
+1233  -229.167573   neither  
+1234  -210.350180   neither  
+1235  -301.533412   neither  
+1236  -485.779986   neither  
+1237  -448.472964   neither  
+1238   -54.073764   neither  
+1239  -298.723982   neither  
+1240   -77.152241    sexism  
+1241  -303.959696   neither  
+1242  -198.991148   neither  
+1243  -426.628544   neither  
+1244   -57.872589   neither  
+1245   -40.217170    sexism  
+1246  -374.383553   neither  
+1247  -180.478580   neither  
+1248  -317.873289   neither  
+1249  -437.438599   neither  
+1250  -461.301410   neither  
+1251  -177.000184   neither  
+1252  -518.369737   neither  
+1253  -752.482604    sexism  
+1254  -269.746971   neither  
+1255   -71.289324    sexism  
+1256   -54.401560    sexism  
+1257  -400.792341   neither  
+1258  -351.632535    sexism  
+1259   -71.863581    sexism  
+1260   -33.224453   neither  
+
+[1261 rows x 5 columns]
+Precision of test data after turning is  0.5609756097560976
+Rrecall of tesst data after tuning is , 0.8770053475935828
+fscore after tuning is  0.6842630385487528
+total types bigrams sex are  2790
+total types bigrams nsex are  4799
+     judgment                                              tweet  logprobsex  \
+0     neither                   not yet. :(  all talk, no email.  -26.393211   
+1     neither  I am really curious as to why someone would tr...  -51.735088   
+2     neither  o_O   that's appreciated greatly. going to be ...  -52.430287   
+3     neither  but you might ask @cperciva - i'm pretty sure ...  -40.186215   
+4     neither                                  no, that's @oolon  -13.628585   
+5     neither                 I'm weird - I like Cherry MX Reds.  -35.582264   
+6     neither  #mainecoon #coon #cat #kitty #pet #animal #cat... -154.701660   
+7     neither  If someone has to get the highest score in his... -118.848806   
+8     neither  Thanks, everyone. Sometimes stuff gets to me w...  -89.274608   
+9     neither                          Corsair K95. Not the RGB.  -32.007860   
+10     sexism  Rape by Fraud Feminazi Strike Again: https://t...  -80.135686   
+11    neither     I hear @KJAllianceGoA counts totems as people.  -39.136626   
+12    neither  Stop calling for the head of whoever made that...  -75.246787   
+13    neither  this isn't just gamergate this isn't just game...  -81.072431   
+14    neither  i have other experiences that are not fine fro...  -53.084472   
+15    neither           lol all my tweets are properly geotagged  -24.762501   
+16    neither             .@sindarina tweetbot is a paid client.  -23.604204   
+17    neither  no worries. the whole "you scare easily" is se...  -58.848195   
+18    neither  i don't own boring socks. and i still wouldn't...  -55.303526   
+19    neither  i remember what it was like to be snowed in ba...  -60.282216   
+20    neither  In web, yes. Clients other than web immediatel...  -38.692012   
+21     racism  man fuck these feminazi s Kube. We don't need ...  -68.259689   
+22    neither                                      mail, mostly.  -10.822294   
+23     sexism  if you mean they have giant dicks that they're...  -43.048694   
+24    neither  more so because the community is nodding and f...  -54.403093   
+25    neither  no one from requiem ever goes. they are too an...  -32.609962   
+26     sexism  I always thought they didn't like the Feminazi...  -33.889823   
+27     sexism  Yes it is legit, Sweden is one place any livin...  -79.779088   
+28     sexism  I'd say this is accurate of the feminazi girl ...  -37.522620   
+29    neither  Had to put off press photog until today. Now I...  -91.469075   
+...       ...                                                ...         ...   
+1231   racism          great job cOOning tonight #donlemon #coon  -30.793352   
+1232  neither  Wow! Basically all men are responsible for rap... -101.708508   
+1233  neither  They should call you d20, 'cuz who even knows ...  -56.206331   
+1234  neither  dude we were the best team ever. We made shit ...  -44.813466   
+1235  neither  I don't have a problem getting tech companies ...  -63.045393   
+1236   sexism  90% of females are now #Feminazi &amp; #NeedSh... -153.874236   
+1237  neither  I recall an article where #mkr prides itself o... -106.028046   
+1238  neither                                    i'm a gamer. ;)  -18.398095   
+1239  neither  He's said that he's backing out, but I think t...  -62.898451   
+1240  neither                                    I SAW YOUR FACE  -30.370256   
+1241  neither  yeah, but then i'd have to buy shadow warrior....  -70.920762   
+1242  neither  My dog is photogenic as hell. http://t.co/NIN4...  -60.872480   
+1243  neither  Sometimes a lot of this still feels like playi...  -85.974280   
+1244  neither                                that exists in web.  -12.922566   
+1245   sexism                                        feminazi...   -7.880592   
+1246   racism  Um hey truth as a black man in a company that ...  -71.042008   
+1247  neither               #MKR2015 #MKR http://t.co/mD9TyU1MOn  -71.714649   
+1248  neither  we're totes not dog piling, but just so you kn...  -80.156122   
+1249  neither  I was getting really into reading these blue a... -103.179509   
+1250  neither  Again, not all [insert privileged group/repres... -110.317471   
+1251  neither  i just got the jot script to use with penultim...  -41.413380   
+1252   sexism  GRECIAN FUCK SHOES. .  . Also a gift of squirr... -152.195164   
+1253   sexism  HOT SINGLES ARE IN YOUR AREA . &gt;go west .  ... -281.125239   
+1254  neither  did you read the text of the article? that pic...  -55.958149   
+1255   sexism                             How great are feminazi  -10.908886   
+1256   sexism                                    Define Feminazi   -8.424829   
+1257  neither  Yo. @moldybars. I really hate to burst your bu...  -99.284597   
+1258  neither  HOW MANY ANGLES DOES MY FIST NEED I DON'T UNDE... -128.207834   
+1259  neither                                 Today's status: 👍😎  -19.293500   
+1260  neither                                       last retweet   -6.139056   
+
+      logprobnsex predicted   form_nsex  
+0      -12.207333   neither  formula #1  
+1      -18.038179   neither  formula #1  
+2      -22.734693   neither  formula #1  
+3      -17.056116   neither  formula #1  
+4       -5.315317   neither  formula #1  
+5      -18.782181   neither  formula #1  
+6      -92.376640   neither  formula #1  
+7      -65.554559   neither  formula #1  
+8      -36.581887   neither  formula #1  
+9      -18.362856   neither  formula #3  
+10     -48.965139   neither  formula #1  
+11     -20.133010   neither  formula #1  
+12     -28.106089   neither  formula #1  
+13     -32.841107   neither  formula #1  
+14     -22.662668   neither  formula #1  
+15      -8.761348   neither  formula #1  
+16      -9.363542   neither  formula #1  
+17     -24.547312   neither  formula #1  
+18     -25.870191   neither  formula #1  
+19     -24.714026   neither  formula #1  
+20     -14.669023   neither  formula #1  
+21     -30.367509   neither  formula #1  
+22      -3.770098   neither  formula #1  
+23     -16.157464   neither  formula #1  
+24     -21.609831   neither  formula #1  
+25     -13.164978   neither  formula #1  
+26     -17.264344   neither  formula #1  
+27     -40.014107   neither  formula #1  
+28     -22.802318   neither  formula #1  
+29     -39.660401   neither  formula #1  
+...           ...       ...         ...  
+1231   -14.214852   neither  formula #1  
+1232   -53.869966   neither  formula #1  
+1233   -26.712782   neither  formula #1  
+1234   -19.613432   neither  formula #1  
+1235   -25.327068   neither  formula #1  
+1236   -97.675820   neither  formula #1  
+1237   -55.447674   neither  formula #3  
+1238    -9.779878   neither  formula #1  
+1239   -25.381860   neither  formula #1  
+1240   -22.263577   neither  formula #1  
+1241   -31.574508   neither  formula #1  
+1242   -32.547243   neither  formula #1  
+1243   -33.741563   neither  formula #1  
+1244    -5.349022   neither  formula #1  
+1245    -4.126801   neither  formula #1  
+1246   -25.946667   neither  formula #1  
+1247   -45.948470   neither  formula #1  
+1248   -39.874641   neither  formula #1  
+1249   -50.883311   neither  formula #1  
+1250   -59.409688   neither  formula #1  
+1251   -19.084930   neither  formula #1  
+1252   -87.181452   neither  formula #3  
+1253  -199.024261   neither  formula #1  
+1254   -22.659233   neither  formula #1  
+1255    -4.465594   neither  formula #1  
+1256    -5.376713   neither  formula #1  
+1257   -47.805809   neither  formula #1  
+1258   -88.946075   neither  formula #1  
+1259   -13.025454   neither  formula #2  
+1260    -0.612606   neither  formula #1  
+
+[1261 rows x 6 columns]
+precision of bigram model is 0.0
+recall of bigram model is 0.0106951871657754
+fscore of bigram model is 0.0
